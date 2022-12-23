@@ -13,9 +13,11 @@
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/pulkitnarula" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="pulkitnarula" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/pulkitnarula13" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pulkitnarula13/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://dev.to/pulkitnarula" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="pulkitnarula" height="30" width="40" /></a>
+  
 </p>
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left"> 
