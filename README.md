@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋, I'm <a href="https://www.pulkitnarula.com"> Pulkit Narula</a></h1>
 <h3 align="center">I am a Full Stack Javascript Developer</h3>
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **React.js**
 
 - 🤝 I’m looking for help with **open source projects**
 
